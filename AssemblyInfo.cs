@@ -1,0 +1,6 @@
+[assembly: System.Reflection.AssemblyProduct("Houston")]
+[assembly: System.Reflection.AssemblyDescription("Houston 1.3k")]
+[assembly: System.Reflection.AssemblyTitle("Houston")]
+[assembly: System.Reflection.AssemblyCompany("Dullware")]
+[assembly: System.Reflection.AssemblyCopyright("(c) 2003-2010 Dullware")]
+[assembly: System.Reflection.AssemblyVersion("1.3.*")]
