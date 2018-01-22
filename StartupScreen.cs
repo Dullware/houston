@@ -68,9 +68,9 @@ public class StartupScreen : System.Windows.Forms.Form
     
     void dotcp()
     {
-    	bool found = false;
-        bool passed = false;
-        string[] hosts = { "82.95.178.145", "137.224.24.210" };
+    	bool found = true;
+        bool passed = true;
+		string[] hosts = { };
         foreach (string host in hosts)
         {
         	TcpClient srv;
